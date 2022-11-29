@@ -45,7 +45,7 @@ global.prefa = ['#','!','/','']
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://i.ibb.co/KGfK6s8/IMG-20221030-WA0117.jpg`
-global.alive =`Hello i am alive now
+global.alive =`محبت دو لوگ کرتے ہیں مگر.. ❤❤  انتظار کسی ایک کے حصے میں آتا ہے 💯
 
 Download song type .yt 
 Thanks fro using...`
